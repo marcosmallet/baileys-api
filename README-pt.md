@@ -1,4 +1,4 @@
-# Baileys API
+# Baileys API 2
 
 <a href="https://fazer.ai?utm_source=github&utm_medium=pt&utm_campaign=baileys-api"><img alt="fazer.ai logo" src="https://framerusercontent.com/images/HqY9djLTzyutSKnuLLqBr92KbM.png?scale-down-to=256" height="75"/></a>
 
